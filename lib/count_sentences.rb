@@ -35,6 +35,6 @@ end
 end
 
   def count_sentences
- self.split(".").lenght
+ self.split(".").length
   end
 end
