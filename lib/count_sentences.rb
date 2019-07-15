@@ -24,6 +24,7 @@ else
  else
    false
   end
+end
 
   def exclamation?
 
